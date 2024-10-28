@@ -1,0 +1,4 @@
+It applies the inheritance in such way that the derived classes must be 
+completely substitutable for there base classes. in other word if the A is subtype
+of class B. then we should be able to replace B with A without inrrupting the
+behavior of the program
