@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>design-pattern-practice</groupId>
+  <artifactId>design-pattern-practice</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Java design patterns</name>
+  <description>Learning java design patterns</description>
+  <modules>
+  	<module>builder-design-pattern</module>
+  	<module>singleton-design-pattern</module>
+  	<module>solid-design-pattern</module>
+  </modules>
+</project>
