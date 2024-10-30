@@ -7,7 +7,7 @@ class TestException5 extends OverrideExceptions{
 	
 	// to solve this problem you need to remove throws 
 	// exception from the below 
-	public void start() throws Exception{
+	public void start(){ // throws Exception
 	}
 	
 	// below runtime exception will not cause any problem 

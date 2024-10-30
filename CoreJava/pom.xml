@@ -9,5 +9,6 @@
   <modules>
   	<module>exception-handling</module>
   	<module>string-handling</module>
+  	<module>number-programs</module>
   </modules>
 </project>
