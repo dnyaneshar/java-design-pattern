@@ -8,5 +8,6 @@
   <description>Core Java programming practice</description>
   <modules>
   	<module>exception-handling</module>
+  	<module>string-handling</module>
   </modules>
 </project>
