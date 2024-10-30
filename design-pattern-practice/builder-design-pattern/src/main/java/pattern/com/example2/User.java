@@ -46,5 +46,6 @@ public class User {
 				.setDOB(new Date()).build();
 		
 		System.out.println(user.getName());
+		
 	}
 }
